@@ -1,0 +1,32 @@
+*{
+    margin: 20px;
+    background-color: lightcoral;
+
+}
+.menu {
+    display: flex;
+    list-style: none;
+    background-color: #333;
+}
+
+.menu li {
+    padding: 15px;
+}
+
+.menu li a {
+    color: white;
+    text-decoration: none;
+}
+.top {
+    background-color: aquamarine;
+    margin: 10px;
+    height: 300px;
+    display: inline-block;
+}
+.topleft{
+    width: 50%;
+    
+}
+.topleft img{
+    height: 280px; 
+}
